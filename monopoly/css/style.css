@@ -1,0 +1,27 @@
+body{
+  background-color: gray;
+}
+
+#main{
+  width: 400px;
+  background-color: rgba(255, 255, 255, 1);
+  margin: 15px ;
+  padding: 10px;
+  border: 5px black double;
+}
+
+.header{
+  background-color: #b4e4fa;
+  text-align: center;
+  font-family: "Copperplate", times, serif;
+  text-transform: uppercase;
+  border: 3px black solid;
+  padding: 5px;
+}
+
+.header h1{
+  font-size: 44px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin: 3px 0;
+}
